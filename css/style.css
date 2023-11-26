@@ -1,0 +1,22 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@400;500&family=Roboto&display=swap');
+
+/* Normalize */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Variables */
+:root{
+    /* Fuentes */
+    --fuente-titulos: "Playpen Sans";
+    --fuente-textos: "Roboto";
+
+    /* Colores */
+    --color-alpha:#04364A;
+    --color-beta:#176B87;
+    --color-charlie:#64CCC5;
+    --color-delta:#DAFFFB;
+}
